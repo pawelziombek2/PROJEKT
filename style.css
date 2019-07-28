@@ -1,0 +1,94 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+line-height: 1.4em;
+vertical-align: baseline;
+text-decoration: none;
+outline: 0;
+}
+
+
+
+
+  p{
+    font-size: 20px;
+  }
+#header{
+  width:1080px;
+  height:80px;
+  font-size: 30px;
+  text-align:center;
+  color: #990033;
+}
+#container{
+
+  background-image: url(clouds.jpg);;background-attachment: fixed
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin:20px;
+  padding:5%;
+  width: 1080px;
+  height: 2160px;
+  margin: 10px;
+
+
+}
+
+#container2{
+
+  background-image: url(clouds.jpg);;background-attachment: fixed
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin:20px;
+  padding:5%;
+  width: 1080px;
+  height: 2490x;
+  margin: 10px;
+
+}
+
+#header{
+  width: 1020px;
+  margin:30px;
+  font-style:italic;
+
+}
+
+#main{
+  float:left;
+  width: 850px
+
+
+}
+
+
+}
+#navi{
+  float:left;
+  text-align:right;
+  width:200px;
+  min-height:900px;
+  margin:30px;
+  font-size:50px;
+
+}
+
+#blog{
+
+  width: 850px;
+  border:dotted black;
+  background-color:#99CCFF;
+  font-style:italic;
+
+}
+
+
+footer{
+  clear:both;
+  background-color: #99CCFF;
+  font-size:20px;
+  text-align:center;
+  width:1080px;
+
+}
